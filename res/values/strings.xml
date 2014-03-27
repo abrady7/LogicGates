@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LogicGates</string>
+    <string name="action_settings">Settings</string>
+    <string name="ResetButton">RESET</string>
+    <string name="ClearButton">CLEAR</string>
+    <string name="Test">FILLER (for Testing)</string>
+    <string name="MenuButton">Menu</string>
+    <string name="OpenButton">Open Circuit (TBD)</string>
+    <string name="SaveButton">Save Circuit (TBD)</string>
+    <string name="HelpButton">Help</string>
+    <string name="HowToButton">How-To</string>
+    <string name="AboutButton">About</string>
+    <string name="imageViewDescription">back</string>
+
+</resources>
